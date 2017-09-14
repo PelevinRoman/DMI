@@ -1,20 +1,5 @@
- 1001  ssh -X x141REB304@213.175.92.22 
- 1002  whoami
- 1003  date
- 1004  user
- 1005  phytone
- 1006  idle
- 1007  2+3
- 1008  idle
- 1009  2+3
- 1010  idle
- 1011  firefox
- 1012  firefox &
- 1013  ssh -X x161REB201@213.175.92.22
- 1014  firefox
- 1015  ssh -X x161REB201@213.174.92.22
- 1016  ssh -X x161Reb201@213.175.92.38
- 1017  ssh -X x161REB201@213.175.92.22
+
+ 
  1018  ssh -X x161REB201@213.175.92.22
  1019  ssh -X x161REB153@213.175.92.22
  1020  ssh -X x161REB233@213.175.92.22
@@ -998,3 +983,17 @@
  1998  cd darbi1
  1999  ls
  2000  history > history.txt
+ 2001  ls
+ 2002  git init
+ 2003  git add .
+ 2004  git config --global user.email boom26951505@gmail.com
+ 2005  ls
+ 2006  git commit -m "20170914_15_55"
+ 2007  git remote add origin https://github.com/PelevinRoman/DMI.git
+ 2008  git push origin master
+ 2009  history
+ 2010  ls -1
+ 2011  pwd
+ 2012  ls -1
+ 2013  cat history.txt
+ 2014  history > history.txt
