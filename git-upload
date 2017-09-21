@@ -1,4 +1,5 @@
 #!/bin/bash
+git config --global user.email boom26951505@gmail.com
 git add .
 git commit -m "DMI"
 git push origin master
