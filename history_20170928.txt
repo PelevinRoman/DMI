@@ -1,0 +1,89 @@
+    1  git clone https://github.com/PelevinRoman/DMI.git
+    2  ls -l
+    3  cd DMI
+    4  pwd
+    5  ls -la
+    6  nano
+    7  mainiigais=10
+    8  echo $mainiigais
+    9  1_mainiigais=20
+   10  mainiigais_1=30
+   11  echo $1_mainiigais
+   12  echo mainiigais_1
+   13  echo $mainiigais_1
+   14  nano shell_exple.sh
+   15  ls -la
+   16  cat shell_exple.sh
+   17  NAME="Vārds Uzvārds"
+   18  echo $NAME
+   19  ls -la
+   20  cat shell_exple.sh
+   21  shell_exple.sh
+   22  ls -la
+   23  chmod 744 shell_exple.sh
+   24  ls -la
+   25  shell_exple.sh
+   26  echo $PATH
+   27  pwd
+   28  shell_exple.sh
+   29  pwd
+   30  /home/user/DMI/shell_exple.sh
+   31  /tmp/guest-xDyNNW/DMI/shell_exple.sh
+   32  ~/DMI/shell_exple.sh
+   33  ./shell_exple.sh
+   34  nano shell_exple.sh
+   35  ./shell_exple.sh
+   36  nano shell_exple.sh
+   37  ./shell_exple.sh
+   38  cat shell_exple.sh
+   39  ./shell_exple.sh
+   40  nano shell_exple.sh
+   41  ./shell_exple.sh
+   42  cat shell_exple.sh
+   43  nano shell_exple.sh
+   44  ./shell_exple.sh
+   45  cat shell_exple.sh
+   46  ./shell_exple.sh
+   47  ls
+   48* 
+   49  nano shell_exple.sh
+   50  echo $0
+   51  ./shell_exple.sh
+   52  nano shell_exple.sh
+   53  ./shell_exple.sh
+   54  nano shell_exple.sh
+   55  echo $#
+   56  nano shell_exple.sh
+   57  echo $#
+   58  ./shell_exple.sh
+   59  ./shell_exple.sh arg1
+   60  ./shell_exple.sh arg1 arg2
+   61  ./shell_exple.sh arg1 arg2 arg3
+   62  echo $*
+   63  nano shell_exple.sh
+   64  echo $*
+   65  ./shell_exple.sh
+   66  ./shell_exple.sh arg1
+   67  ./shell_exple.sh arg1 arg2
+   68  echo $@
+   69  nano shell_exple.sh
+   70  ./shell_exple.sh
+   71  ./shell_exple.sh arg1
+   72  ./shell_exple.sh arg1 arg2
+   73  echo $?
+   74  nano shell_exple.sh
+   75  ./shell_exple.sh
+   76  nano shell_exple.sh
+   77  ./shell_exple.sh
+   78  ls -la
+   79  nano shell_exple.sh
+   80  ./shell_exple.sh
+   81  echo $$
+   82  nano shell_exple.sh
+   83  echo $$
+   84  ./shell_exple.sh
+   85  echo $!
+   86  nano shell_exple.sh
+   87  ./shell_exple.sh
+   88  nano git-upload
+   89  history > history_20170928.txt
