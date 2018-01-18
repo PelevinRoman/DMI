@@ -1,0 +1,54 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  user
+    4  home
+    5  documents
+    6  desktop
+    7  matlab
+    8  firefox
+    9  git clone https://github.com/PelevinRoman/DMI
+   10  cd DMI
+   11  ls
+   12  nano statistika.sh
+   13  ./statistika.sh 50 20 13
+   14  nano statistika.sh
+   15  ./statistika.sh 50 20 13
+   16  chmod 744
+   17  chmod statistika.sh 744
+   18  ./statistika.sh 50 20 13
+   19  chmod 744 statistika.sh
+   20  ./statistika.sh 50 20 13
+   21  PYTHON
+   22  ./statistika.sh 50 20 12
+   23  ls
+   24  mkdir PHYTON
+   25  mkdir PYTHON
+   26  ls
+   27  cd PYTHON
+   28  nano tabulamajas.py
+   29  2
+   30  1
+   31  1 2 3
+   32  chmod 744 tabulamajas.py
+   33  ./tabulamajas.py
+   34  nano dichotomy.py
+   35  chmod 744 dichotomy.py
+   36  ./dichotomy.py 1
+   37  2
+   38  22
+   39  rm -rf PYTHON
+   40  ls
+   41  rm -rf PYTHON/
+   42  PYTHON..
+   43  PYTHON ..
+   44  ls -l
+   45  rm PYTHON
+   46  exit
+   47  git clone https://github.com/PelevinRoman/DMI
+   48  cd DMI
+   49  nano statistika.sh
+   50  cd PYTHON
+   51  ls
+   52  history > history_20181801
+   53  cd ..
+   54  history > history_20181801.txt
